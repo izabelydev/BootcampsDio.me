@@ -14,17 +14,17 @@ const valorNormal = 100, debito = valorNormal * 0.9, dinheiroPix = valorNormal *
 let condPagamento = 'Acima de duas vezes';
 
 if (condPagamento == 'Débito') {
-    console.log('Você recebeu 10% de desconto. Pague R$', debito.toFixed(2))
+    console.log('Você recebeu 10% de desconto. Pague R$', debito.toFixed(2));
 }
 
 else if (condPagamento == 'Dinheiro' || condPagamento == 'Pix') {
-    console.log('Você recebeu 15% de desconto. Pague R$', dinheiroPix.toFixed(2))
+    console.log('Você recebeu 15% de desconto. Pague R$', dinheiroPix.toFixed(2));
 }
 
 else if (condPagamento == 'Duas vezes') {
-    console.log('Você pode parcelar sem juros. Pague 2x de R$', valorNormal.toFixed(2) / 2)
+    console.log('Você pode parcelar sem juros. Pague 2x de R$', valorNormal.toFixed(2) / 2);
 }
 
 else {
-    console.log('Você pode parcelar com 10% de juros. Valor total R$', acimaDuasVezes.toFixed(2))
+    console.log('Você pode parcelar com 10% de juros. Valor total R$', acimaDuasVezes.toFixed(2));
 }

@@ -33,7 +33,7 @@ function classificarImc (IMC) {
     const peso = 75, altura = 1.75, IMC = calcularImc(peso, altura);
     console.log('IMC: ' + IMC.toFixed(2) + ' | Classificação: ' + classificarImc(IMC));
 })(); //função imediatamente invocada (não precisa ter um nome)
-
+ 
 
 
 //  É possível atribuir uma nova função para uma função já escrita no código. Ex:

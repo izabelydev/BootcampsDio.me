@@ -46,7 +46,7 @@ function main() {
     console.log(incrementarJuros(100,20)); //função secundária sendo executada dentro da função main
 }
 
-main();
+main(); 
 
 
 
