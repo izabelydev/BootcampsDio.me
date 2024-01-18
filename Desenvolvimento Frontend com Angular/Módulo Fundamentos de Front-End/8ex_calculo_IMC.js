@@ -1,6 +1,6 @@
 /*
     O IMC - Índice de Massa Corporal é um critério da Organização Mundial da Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta.
-
+ 
     Fórmula do IMC:
     IMC = peso / (altura * altura)
 
