@@ -16,4 +16,4 @@ Obrigado por visitar e espero que encontre recursos valiosos aqui para impulsion
 
 | Curso/Bootcamp | Competências |
 | -------------- | --------- |
-| [Desenvolvimento Front-end com Angular](https://github.com/izabelydev/BootcampsDio.me/tree/main/Desenvolvimento%20Frontend%20com%20Angular) | HTML, CSS, JavaScript e Angular. |
+| [Desenvolvimento Front-end com Angular](https://github.com/izabelydev/BootcampsDio.me/tree/main/Desenvolvimento%20Frontend%20com%20Angular) | Git, GitHub, HTML, CSS, JavaScript e Angular. |
