@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./css/style.css">
     <script src="./src/components/CardNews.js" defer></script>
     <script src="./src/components/DinamicTitle.js" defer></script>
- 
+
     <title>Portal de notícias</title>
 </head>
 
@@ -15,26 +15,31 @@
 
     <div class="container-wrapper">
         <div class="container">
+            <card-news 
+                autor="Izabely" 
+                title="Lorem ipsum" 
+                link-url="www.google.com"
+                content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque at non soluta, blanditiis accusamus magni enim."
+                arquivo-img="./assets/jscode.jpeg"
+                description-img="JS CODE"
+            >
+            </card-news>
 
-            <div class="card">
-                <div class="card_left">
-                    <span>Izabely Lourenço</span>
-                    <h1><a href="#">Lorem ipsum</a></h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque at non soluta, blanditiis
-                        accusamus magni enim.
-                </div>
-
-                <div class="card_right">
-                    <img src="./assets/jscode.jpeg" alt="JS CODE">
-                </div>
-            </div>
-
-            <dinamic-title titulo ="Título dinâmico" ></dinamic-title>
-
+            <card-news 
+                autor="" 
+                title="Lorem ipsum" 
+                link-url="www.google.com"
+                content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque at non soluta, blanditiis accusamus magni enim."
+                arquivo-img=""
+                description-img=""
+        >
+        </card-news>
         </div>
+
     </div>
 
-    <card-news></card-news>
+
+
     <dinamic-title titulo="Título dinâmico"></dinamic-title>
     <dinamic-title titulo="Título dinâmico novo"></dinamic-title>
 
