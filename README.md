@@ -1,5 +1,5 @@
 # BootcampsDio.me
-# teste main
+
 Bem-vindo ao repositório de códigos das aulas dos bootcamps e cursos que realizei na plataforma Dio.me!
 
 Neste espaço, você encontrará uma coleção abrangente de códigos desenvolvidos durante o meu aprendizado em desenvolvimento web.
