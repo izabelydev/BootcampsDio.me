@@ -57,3 +57,36 @@ let infos: (string | number)[] = [1, "Cliente"];
 // Tuplas (array multi types com ordem pré-definida)
 let boleto:[string, number, number] = ["Conta água", 199.9, 36243826];
 
+// Métodos
+dados.pop();
+
+
+//-----------------------DATAS-----------------------
+
+let aniversario: Date = new Date("2003-08-22 19:00");
+console.log(aniversario.toString());
+
+
+//-----------------------FUNÇÕES-----------------------
+// com ts é possível tipar as variáveis da função
+function addNumber(x:number, y:number):number {
+    return x + y;
+}
+
+function addToHello(name: string): string {
+    return `Hello ${name}!`;
+}
+
+console.log(addNumber(4,7));
+console.log(addToHello("Iza"));
+
+// function multi types
+function callToPhone(phone: number | string): number | string {
+    return `Ligando para ${phone}...`;
+}
+console.log(callToPhone("11 995269973"));
+
+// function async
+async function getDatabase(id: number): Promise<number | string> {
+    return "Nome do banco de dados";
+}
