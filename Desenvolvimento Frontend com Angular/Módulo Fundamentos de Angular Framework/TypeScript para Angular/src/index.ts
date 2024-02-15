@@ -9,5 +9,5 @@ function printaObjeto(pessoa: heroi) {
 
 printaObjeto({
     name: "Bruce Wayne",
-    vulgo: "Batman"
+    vulgo: "Spider man"
 })
