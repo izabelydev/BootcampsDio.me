@@ -1,0 +1,8 @@
+<app-comp-atributos></app-comp-atributos>
+<app-card *ngIf="isALiveCard; else secretBlock"></app-card>
+
+<ng-template #secretBlock>
+  <p>Olá, sou um bloco secreto</p>
+</ng-template>
+
+<router-outlet></router-outlet>
