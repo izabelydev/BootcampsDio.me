@@ -1,0 +1,15 @@
+.container__menu-title {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.container__menu-title h1 {
+    font-size: 6.25rem;
+    font-weight: 800;
+    margin: .938rem auto;
+}
+
+.container__menu-title hr {
+    margin: 1.25rem auto;
+}

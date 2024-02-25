@@ -1,0 +1,41 @@
+* {
+    color: #ffffff;
+}
+
+.container__big-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+    width: 23.75rem;
+    height: 26.8rem;
+    margin: .5rem 1rem;
+}
+
+.big-card__img img {
+    width: 23.75rem;
+    height: 15.833rem;
+    display: flex;
+    justify-content: center;
+}
+
+.big-card__title h1 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 1rem;
+}
+
+.big-card__title a {
+    text-decoration: none;
+}
+
+.big-card__title a:hover {
+    text-decoration: underline;
+}
+
+.big-description p {
+    color: #aca9a9;
+    font-size: 15px;
+    margin-top: .3rem;
+}

@@ -1,0 +1,42 @@
+* {
+  color: #ffffff;
+}
+
+.container__small-card {
+  align-items: center;
+  overflow: hidden;
+  width: 30.5rem;
+  height: 8.583rem;
+  margin: .5rem .5rem 1rem 1.5rem;
+}
+
+.container__small-card-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.small-card__img img {
+  width: 13.5rem;
+  height: 7.283rem;
+  display: flex;
+  justify-content: center;
+}
+
+.small-card__title h1 {
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 1rem;
+}
+
+.small-card__title a {
+  text-decoration: none;
+}
+
+.small-card__title a:hover {
+  text-decoration: underline;
+}
+
+.separator hr {
+  margin-top: 1rem;
+}

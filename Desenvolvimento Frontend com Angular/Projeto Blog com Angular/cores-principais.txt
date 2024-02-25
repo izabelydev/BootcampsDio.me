@@ -1,0 +1,5 @@
+cores principais:
+
+background: #121212
+font: #ffffff
+linear-gradient (icon): #f3308e #f8623a
