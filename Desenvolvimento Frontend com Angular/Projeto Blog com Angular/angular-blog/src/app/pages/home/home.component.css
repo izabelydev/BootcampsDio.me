@@ -5,3 +5,7 @@
     flex-direction: row;
     justify-content: center;
 }
+
+.separator hr {
+    margin: 0 1rem 0;
+  }

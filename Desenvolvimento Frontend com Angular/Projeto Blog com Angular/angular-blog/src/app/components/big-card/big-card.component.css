@@ -10,7 +10,7 @@
     overflow: hidden;
     width: 23.75rem;
     height: 26.8rem;
-    margin: .5rem 1rem;
+    margin: 1rem;
 }
 
 .big-card__img img {
@@ -21,6 +21,8 @@
 }
 
 .big-card__title h1 {
+    width: 23.75rem;
+    text-align: left;
     font-size: 20px;
     font-weight: 700;
     margin-top: 1rem;
