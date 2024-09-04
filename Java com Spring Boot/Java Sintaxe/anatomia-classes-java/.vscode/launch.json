@@ -1,0 +1,76 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "inputUser",
+            "request": "launch",
+            "mainClass": "edu.iza.Scanner.src.inputUser",
+            "projectName": "anatomia-classes-java_c05b0053"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.iza.Arguments.src.AboutMe",
+            "projectName": "anatomia-classes-java_c05b0053",
+            "args": [
+                "IZABELY",
+                "LOURENCO",
+                "21",
+                "1.62"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "edu.iza.Arguments.src.App",
+            "projectName": "anatomia-classes-java_c05b0053"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "edu.iza.firstWeek.Methods",
+            "projectName": "anatomia-classes-java_c05b0053"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "edu.iza.firstWeek.Operators",
+            "projectName": "anatomia-classes-java_c05b0053"
+        },
+        {
+            "type": "java",
+            "name": "StudentBulletin",
+            "request": "launch",
+            "mainClass": "edu.iza.firstWeek.StudentBulletin",
+            "projectName": "anatomia-classes-java_c05b0053"
+        },
+        {
+            "type": "java",
+            "name": "TypesVariables",
+            "request": "launch",
+            "mainClass": "edu.iza.firstWeek.TypesVariables",
+            "projectName": "anatomia-classes-java_c05b0053"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "edu.iza.firstWeek.Variables",
+            "projectName": "anatomia-classes-java_c05b0053"
+        }
+    ]
+}

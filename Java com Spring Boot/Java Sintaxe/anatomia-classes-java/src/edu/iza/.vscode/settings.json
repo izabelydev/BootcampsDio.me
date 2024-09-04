@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "system-smart-tv/src",
+        "java-doc/src",
+        "anotations-java/src",
+        "AboutMe/src",
+        "firstWeek"
+    ]
+}

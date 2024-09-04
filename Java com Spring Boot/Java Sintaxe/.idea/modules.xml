@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/anatomia-classes-java/src/edu/iza/AboutMe/AboutMe.iml" filepath="$PROJECT_DIR$/anatomia-classes-java/src/edu/iza/AboutMe/AboutMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Sintaxe.iml" filepath="$PROJECT_DIR$/.idea/Java Sintaxe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anatomia-classes-java/src/edu/iza/iza.iml" filepath="$PROJECT_DIR$/anatomia-classes-java/src/edu/iza/iza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anatomia-classes-java/src/edu/iza/java-doc/java-doc.iml" filepath="$PROJECT_DIR$/anatomia-classes-java/src/edu/iza/java-doc/java-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anatomia-classes-java/src/edu/iza/system-smart-tv/system-smart-tv.iml" filepath="$PROJECT_DIR$/anatomia-classes-java/src/edu/iza/system-smart-tv/system-smart-tv.iml" />
+    </modules>
+  </component>
+</project>
